@@ -11,7 +11,8 @@ import SwiftUI
 struct PracticeofSwiftUIAdvancedApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            ViewModifierPractice()
         }
     }
 }

@@ -11,6 +11,7 @@
 		065D5FD62A83C3DE006CC10B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065D5FD52A83C3DE006CC10B /* ContentView.swift */; };
 		065D5FD82A83C3E5006CC10B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 065D5FD72A83C3E5006CC10B /* Assets.xcassets */; };
 		065D5FDB2A83C3E5006CC10B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 065D5FDA2A83C3E5006CC10B /* Preview Assets.xcassets */; };
+		065D5FE22A83CE1C006CC10B /* ViewModifierPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065D5FE12A83CE1C006CC10B /* ViewModifierPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		065D5FD52A83C3DE006CC10B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		065D5FD72A83C3E5006CC10B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		065D5FDA2A83C3E5006CC10B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		065D5FE12A83CE1C006CC10B /* ViewModifierPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				065D5FD32A83C3DE006CC10B /* PracticeofSwiftUIAdvancedApp.swift */,
 				065D5FD52A83C3DE006CC10B /* ContentView.swift */,
+				065D5FE12A83CE1C006CC10B /* ViewModifierPractice.swift */,
 				065D5FD72A83C3E5006CC10B /* Assets.xcassets */,
 				065D5FD92A83C3E5006CC10B /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				065D5FE22A83CE1C006CC10B /* ViewModifierPractice.swift in Sources */,
 				065D5FD62A83C3DE006CC10B /* ContentView.swift in Sources */,
 				065D5FD42A83C3DE006CC10B /* PracticeofSwiftUIAdvancedApp.swift in Sources */,
 			);
