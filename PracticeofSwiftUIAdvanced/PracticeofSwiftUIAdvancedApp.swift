@@ -12,7 +12,8 @@ struct PracticeofSwiftUIAdvancedApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            ViewModifierPractice()
+//            ViewModifierPractice()
+            AnyTransitionPractice()
         }
     }
 }

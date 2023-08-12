@@ -13,6 +13,7 @@
 		065D5FDB2A83C3E5006CC10B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 065D5FDA2A83C3E5006CC10B /* Preview Assets.xcassets */; };
 		065D5FE22A83CE1C006CC10B /* ViewModifierPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065D5FE12A83CE1C006CC10B /* ViewModifierPractice.swift */; };
 		065D5FE42A850DD5006CC10B /* ButtonStylePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065D5FE32A850DD4006CC10B /* ButtonStylePractice.swift */; };
+		065D5FE62A869BBC006CC10B /* AnyTransitionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065D5FE52A869BBC006CC10B /* AnyTransitionPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		065D5FDA2A83C3E5006CC10B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		065D5FE12A83CE1C006CC10B /* ViewModifierPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierPractice.swift; sourceTree = "<group>"; };
 		065D5FE32A850DD4006CC10B /* ButtonStylePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylePractice.swift; sourceTree = "<group>"; };
+		065D5FE52A869BBC006CC10B /* AnyTransitionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				065D5FD52A83C3DE006CC10B /* ContentView.swift */,
 				065D5FE12A83CE1C006CC10B /* ViewModifierPractice.swift */,
 				065D5FE32A850DD4006CC10B /* ButtonStylePractice.swift */,
+				065D5FE52A869BBC006CC10B /* AnyTransitionPractice.swift */,
 				065D5FD72A83C3E5006CC10B /* Assets.xcassets */,
 				065D5FD92A83C3E5006CC10B /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				065D5FE42A850DD5006CC10B /* ButtonStylePractice.swift in Sources */,
 				065D5FE22A83CE1C006CC10B /* ViewModifierPractice.swift in Sources */,
+				065D5FE62A869BBC006CC10B /* AnyTransitionPractice.swift in Sources */,
 				065D5FD62A83C3DE006CC10B /* ContentView.swift in Sources */,
 				065D5FD42A83C3DE006CC10B /* PracticeofSwiftUIAdvancedApp.swift in Sources */,
 			);
