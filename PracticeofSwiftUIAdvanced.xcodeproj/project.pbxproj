@@ -14,6 +14,7 @@
 		065D5FE22A83CE1C006CC10B /* ViewModifierPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065D5FE12A83CE1C006CC10B /* ViewModifierPractice.swift */; };
 		065D5FE42A850DD5006CC10B /* ButtonStylePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065D5FE32A850DD4006CC10B /* ButtonStylePractice.swift */; };
 		065D5FE62A869BBC006CC10B /* AnyTransitionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065D5FE52A869BBC006CC10B /* AnyTransitionPractice.swift */; };
+		065D5FE82A8D6AAE006CC10B /* MatchedGeometryEffectPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065D5FE72A8D6AAE006CC10B /* MatchedGeometryEffectPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		065D5FE12A83CE1C006CC10B /* ViewModifierPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierPractice.swift; sourceTree = "<group>"; };
 		065D5FE32A850DD4006CC10B /* ButtonStylePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylePractice.swift; sourceTree = "<group>"; };
 		065D5FE52A869BBC006CC10B /* AnyTransitionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionPractice.swift; sourceTree = "<group>"; };
+		065D5FE72A8D6AAE006CC10B /* MatchedGeometryEffectPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffectPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				065D5FE12A83CE1C006CC10B /* ViewModifierPractice.swift */,
 				065D5FE32A850DD4006CC10B /* ButtonStylePractice.swift */,
 				065D5FE52A869BBC006CC10B /* AnyTransitionPractice.swift */,
+				065D5FE72A8D6AAE006CC10B /* MatchedGeometryEffectPractice.swift */,
 				065D5FD72A83C3E5006CC10B /* Assets.xcassets */,
 				065D5FD92A83C3E5006CC10B /* Preview Content */,
 			);
@@ -150,6 +153,7 @@
 				065D5FE22A83CE1C006CC10B /* ViewModifierPractice.swift in Sources */,
 				065D5FE62A869BBC006CC10B /* AnyTransitionPractice.swift in Sources */,
 				065D5FD62A83C3DE006CC10B /* ContentView.swift in Sources */,
+				065D5FE82A8D6AAE006CC10B /* MatchedGeometryEffectPractice.swift in Sources */,
 				065D5FD42A83C3DE006CC10B /* PracticeofSwiftUIAdvancedApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
